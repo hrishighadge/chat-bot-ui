@@ -1,0 +1,32 @@
+.bot-orange-icon{
+    background: url("./../assets/icons.svg") 27% 0%;
+    height: 38px;
+    width: 40px;
+    zoom: 250%;
+}
+.bot-white-icon{
+    background: url("./../assets/icons.svg") 0% 0%;
+    height: 38px;
+    width: 40px;
+}
+.cancel-icon{
+    background: url("./../assets/icons.svg") 51% 0%;
+    height: 24px;
+    width: 24px;
+}
+.waving-hand-icon{
+    background: url("./../assets/icons.svg") 68% 0%;
+    height: 24px;
+    width: 24px;
+}
+.question-mark-icon{
+    background: url("./../assets/icons.svg") 0% 23%;
+    height: 17px;
+    width: 9px;
+}
+.chat-icon{
+    background: url("./../assets/icons.svg") 6% 23%;
+    height: 17px;
+    width: 19px;
+    display: inline-block;
+}
